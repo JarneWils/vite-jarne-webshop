@@ -203,15 +203,13 @@ a{
 
 
 
-
-
 footer{
     height: 28vw;
     width: 100vw;
     color: white;
+    background-color: var(--black);
 }
 .contact{
-    background-color: var(--black);
     padding: 20px;
     height: 18vw;
     text-align: center;
